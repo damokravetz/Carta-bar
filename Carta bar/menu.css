@@ -11,7 +11,7 @@
     line-height: 2px;
 }
 .ingredientes {
-    color: gray;
+    color: white;
     font-family: verdana;
     text-align: center;
     font-size: small;
@@ -27,13 +27,8 @@
 }
 
 .fondo {
-    background-color: dimgrey;
-}
-.borde {
-    border: 1px;
-    border-radius: 10px;
-    border-color: black;
-    border-style: groove;
-    background-image: url(https://santanol.com/wp-content/uploads/2016/02/Santanol-Paper-Background-760x1024.jpg);
-    margin: 10px 500px;
+    margin: 100;
+    padding: 100;
+    background-image: url("https://www.adzif.biz/boutique/images_produits/eichesantana.jpg");
+
 }
