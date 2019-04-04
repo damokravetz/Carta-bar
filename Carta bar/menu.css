@@ -1,0 +1,33 @@
+.titulo {
+    color: black;
+    text-align: center;
+    margin-bottom: 50px; 
+}
+.comida {
+    color: black;
+    font-family: verdana;
+    text-align: center;
+    font-size: larger;
+    line-height: 2px;
+}
+.ingredientes {
+    color: white;
+    font-family: verdana;
+    text-align: center;
+    font-size: small;
+    line-height: 2px;
+}
+.precio {
+    color: darkslategrey;
+    font-family: verdana;
+    text-align: center;
+    font-size: medium;
+    line-height: 10px;
+    margin-bottom:50px;
+}
+
+.fondo {
+    margin: 100;
+    padding: 100;
+    background-image: url("https://www.adzif.biz/boutique/images_produits/eichesantana.jpg");
+}
