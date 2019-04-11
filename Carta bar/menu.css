@@ -1,33 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
 .titulo {
     color: black;
     text-align: center;
     margin-bottom: 50px; 
+    font-family:'Open Sans';
 }
 .comida {
     color: black;
-    font-family: verdana;
+    font-family: 'Open Sans';
     text-align: center;
     font-size: larger;
     line-height: 2px;
 }
 .ingredientes {
     color: gray;
-    font-family: verdana;
+    font-family: 'Open Sans';
     text-align: center;
     font-size: small;
     line-height: 2px;
 }
 .precio {
     color: darkslategrey;
-    font-family: verdana;
+    font-family: 'Open Sans';
     text-align: center;
     font-size: medium;
     line-height: 10px;
-    margin-bottom:50px;
+    margin-bottom:15px;
 }
 
 .fondo {
-    background-color: dimgrey;
+    background-image: url(Ixim-main-dining.jpg);
 }
 .borde {
     border: 1px;
@@ -36,4 +39,21 @@
     border-style: groove;
     background-image: url(https://santanol.com/wp-content/uploads/2016/02/Santanol-Paper-Background-760x1024.jpg);
     margin: 10px 500px;
+}
+
+.imagenes {
+    height: 104px;
+    width: 140px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+.images {
+    width: 100%;
+    max-height: 100%;
+    border: 1px;
+    border-radius: 10px;
+    border-color: black;
+    border-style: groove;
 }

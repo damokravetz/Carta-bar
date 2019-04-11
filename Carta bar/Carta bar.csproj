@@ -67,8 +67,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="fideos.jpg" />
     <Content Include="index.html" />
+    <Content Include="Ixim-main-dining.jpg" />
     <Content Include="menu.css" />
+    <Content Include="napo.jpg" />
+    <Content Include="sopa.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
